@@ -1,0 +1,9 @@
+Lunch       9
+Snack       11
+Breakfast       14
+Sleeping       14
+Leaving       14
+Showering       14
+Toileting       44
+Grooming       51
+Spare_Time/TV       77
